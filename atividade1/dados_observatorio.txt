@@ -1,0 +1,10 @@
+CURSO: FÍSICA 
+CURSO: MATEMÁTICA
+CURSO: QUÍMICA
+
+Especifique a situação de matrícula: TODOS
+
+Gênero X Renda mensal da família
+Gênero X Local de Moradia
+Gênero X Renda mensal do candidato
+Gênero X Tipo de escola onde cursou o Ensino Médio (ou equivalente)
